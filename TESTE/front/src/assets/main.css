@@ -1,0 +1,24 @@
+@import './base.css';
+
+#app {
+  max-width: 100%;
+}
+
+.container {
+  padding: 0 20px 0 20px;
+}
+
+.flex-start-center {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 1024px) {
+}
